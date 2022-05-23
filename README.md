@@ -1,3 +1,7 @@
+![I'm_Jarae_Gibson,_A_Full_Stack_Web_Developer](https://user-images.githubusercontent.com/42904992/169893564-8790c563-5e84-4052-a07d-f13e19f820c0.png)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/JaraeGibs)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jarae-gibson/)
+
 ### Hi there 👋
 
 <!--
