@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/JaraeGibs)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jarae-gibson/)
 
-###Hey there 👋
+### Hey there 👋
 
 Hello and thank you for taking the time to take a look at my Github. I am a web developer and specialize in programming using C#. I graduated from Purdue University and Eleven Fifty Academy (Indianapolis) graduate. Please take a look at some of the work I have been doing and feel free to reach out to me if you would like to connect or collarborate.
 
