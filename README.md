@@ -6,7 +6,7 @@
 
 Hello and thank you for taking the time to take a look at my Github. I am a web developer and specialize in programming using C#. I graduated from Purdue University and Eleven Fifty Academy (Indianapolis) graduate. Please take a look at some of the work I have been doing and feel free to reach out to me if you would like to connect or collarborate.
 
-<!-- Pinned Repositories -- >
+
 
 <a href="https://github.com/gibso110/Portfolio">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gibso110&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -22,7 +22,6 @@ Hello and thank you for taking the time to take a look at my Github. I am a web 
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gibso110&repo=WeTalk.MVC&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<!-- GitHub Stats -- >
 
 <a href="https://github.com/gibso110">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibso110&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
